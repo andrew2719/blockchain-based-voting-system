@@ -1,0 +1,11 @@
+# Ape stuff
+.build/
+.cache/
+# Node packages
+node_modules/
+# Python
+.env
+.venv
+.pytest_cache
+.python-version
+__pycache__
